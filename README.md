@@ -1,2 +1,3 @@
 # xss-hacking
-hacking is not a real world.
+Hacking is not a real world.
+I'm so noob and i'll share for you.
